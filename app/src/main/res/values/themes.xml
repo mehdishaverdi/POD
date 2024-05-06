@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.POD" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.POD.Splash" parent="Theme.SplashScreen"/>
+    <style name="Theme.SplashScreen.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#000000</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.SplashScreen</item>
+    </style>
+</resources>

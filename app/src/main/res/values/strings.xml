@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">پاد</string>
+    <string name="customer_number">شماره مشتری</string>
+    <string name="ok">تایید</string>
+    <string name="cancel">لغو</string>
+    <string name="username_not_valid">شماره ملی کاربر معتبر نیست</string>
+    <string name="pref_enc_file_name">pod_enc</string>
+    <string name="business_name_key">Business_Name_KEY</string>
+    <string name="business_icon_key">Business_Icon_KEY</string>
+    <string name="business_token_key">Business_Token_KEY</string>
+    <string name="business_not_found">متاسفانه اطلاعات کسب و کار یافت نشد</string>
+    <string name="resource_fetch_in_progress">در حال دریافت اطلاعات کسب و کار</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="bill_number">شماره فاکتور</string>
+    <string name="amount">مبلغ</string>
+    <string name="rial">ریال</string>
+    <string name="customer">مشتری</string>
+    <string name="invoice_not_found">هیج فاکتوری یافت نشد</string>
+    <string name="receipt_title">تراکنش موفق</string>
+    <string name="receipt_fail_title">تراکنش ناموفق</string>
+    <string name="receipt_text">فاکتور مورد نظر با موفقیت تسویه شد</string>
+    <string name="back">بازگشت</string>
+    <string name="pay">پرداخت</string>
+    <string name="invoice_id">کد یکتا فاکتور:</string>
+    <string name="invoice_amount">مبلغ فاکتور:</string>
+    <string name="invoice_number">شماره فاکتور:</string>
+    <string name="invoice_status">وضعیت:</string>
+    <string name="success_on_settlement">پرداخت موفق، در حال تسویه</string>
+    <string name="unsuccess">پرداخت ناموفق</string>
+    <string name="notPay">پرداخت نشده</string>
+    <string name="onPay">در حال پرداخت</string>
+    <string name="success_settlement">پرداخت موفق، تسویه موفق</string>
+    <string name="unsuccess_settlement">پرداخت موفق، تسویه ناموفق</string>
+    <string name="settlement">تسویه</string>
+    <string name="paid_need_settlement">پرداخت موفق، نیازمند تسویه</string>
+</resources>

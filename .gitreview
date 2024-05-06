@@ -1,0 +1,5 @@
+[gerrit]
+host=https://gerrit.fnpy.ir
+port=29418
+project=POD_Android_App.git
+defaultbranch=Develop
